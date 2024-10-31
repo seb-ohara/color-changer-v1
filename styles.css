@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+
+}
+
+.block{
+    background-color: rgb(89, 117, 93);
+    color:black; 
+    width: 200px;
+    height: 200px;
+    margin-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#but{
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+}
