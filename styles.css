@@ -22,5 +22,9 @@
 #but{
     padding: 5px;
     border-radius: 5px;
-    border: none;
+    border: 2px solid rgb(87, 87, 87);
+}
+#but:hover{
+    background-color: rgb(180, 180, 180);
+    transition: .5s;
 }
